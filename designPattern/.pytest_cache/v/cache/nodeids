@@ -1,3 +1,3 @@
 [
-  "construction.py::testAdvancedBuilder"
+  "strategy.py::testSortPerson"
 ]
